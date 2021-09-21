@@ -7,6 +7,7 @@ GNUstep frameworks. Its major features are:
 
     * multiple agendas with text and background colors
     * support local and iCalendar data sources
+    * support remote calendars via GroupDAV, using .well-known auto-discovery
     * calendar, day view, week view, summary and tasks view
     * create, resize and move appointments easily
     * export individual elements as files and to pasteboard
